@@ -31,7 +31,7 @@ This repository contains only my **own written code, notes, and exercises** insp
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bayezid-developer) 
-- 💻 Aspiring MERN Stack Developer
+- 💻 MERN Stack Developer
 
 ---
 
